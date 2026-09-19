@@ -1,0 +1,21 @@
+{
+  "name": "@venore/theme-nebula",
+  "version": "0.1.0",
+  "description": "Nebula — variação do Aurora (developer tool dark-first): header full-width no topo, acento ciano/teal.",
+  "private": true,
+  "type": "module",
+  "sideEffects": ["*.css"],
+  "exports": {
+    ".": "./index.ts",
+    "./manifest": "./manifest.ts",
+    "./color-palettes": "./color-palettes.ts",
+    "./theme.css": "./theme.css",
+    "./package.json": "./package.json"
+  },
+  "peerDependencies": {
+    "lucide-react": ">=0.400",
+    "next": ">=16",
+    "react": ">=19",
+    "react-dom": ">=19"
+  }
+}
