@@ -1,6 +1,6 @@
 {
   "name": "@venore/theme-nebula",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Nebula — variação do Aurora (developer tool dark-first): header full-width no topo, acento ciano/teal.",
   "private": true,
   "type": "module",
